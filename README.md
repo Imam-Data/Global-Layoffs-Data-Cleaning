@@ -1,12 +1,12 @@
 # 🧹 Global Layoffs Data Cleaning Project
 
-## 📌 Project Overview
+## Project Overview
 **Goal:** To transform a raw, messy dataset of global layoffs (2020-2025) into a high-quality, SQL-ready format.
 **Tools Used:** Microsoft Excel (Data Tools, Pivot Tables, Formulas, Custom Formatting).
 
 ---
 
-## 🛑 The Problem (Raw Data)
+## The Problem (Raw Data)
 The initial dataset (`layoffs_raw.csv`) contained **4,249 rows** with critical issues:
 1.  **Format Incompatibility:** Dates stored as text, unusable for SQL sorting.
 2.  **Data Noise:** Over 50% of the dataset contained null values (blanks) in key metrics.
@@ -14,7 +14,7 @@ The initial dataset (`layoffs_raw.csv`) contained **4,249 rows** with critical i
 
 ---
 
-## 🛠️ Cleaning Process (Step-by-Step)
+## Cleaning Process (Step-by-Step)
 
 ### 1️⃣ Step 1: Data Integrity Check (Duplicates)
 **Objective:** Ensure every record is unique before processing.
@@ -64,7 +64,7 @@ The initial dataset (`layoffs_raw.csv`) contained **4,249 rows** with critical i
 
 ---
 
-## 📊 Final Summary
+## Final Summary
 
 | Metric | Count | Note |
 | :--- | :--- | :--- |
