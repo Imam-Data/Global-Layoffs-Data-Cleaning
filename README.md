@@ -9,7 +9,7 @@
 ## The Problem (Raw Data)
 The initial dataset (`layoffs_raw.csv`) contained **4,249 rows** with critical issues:
 1.  **Format Incompatibility:** Dates stored as text, unusable for SQL sorting.
-2.  **Data Noise:** Over 50% of the dataset contained null values (blanks) in key metrics.
+2.  **Data Noise:** 50% of the dataset contained null values (blanks) in key metrics.
 3.  **Integrity Risks:** Potential duplicates and inconsistent text formatting.
 
 ---
