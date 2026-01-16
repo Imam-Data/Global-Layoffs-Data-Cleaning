@@ -175,6 +175,5 @@ This cleaned dataset powers downstream analysis projects:
 
 ## 📧 Contact
 
-**GitHub**: [@Imam-Data](https://github.com/Imam-Data)
+**LinkedIn**: [Imam Ramdhani](https://www.linkedin.com/in/imam-ramdhani-4219443a5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
----
