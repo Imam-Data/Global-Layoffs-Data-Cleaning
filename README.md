@@ -34,7 +34,7 @@ The initial dataset (`layoffs_raw.csv`) contained **4,249 rows** with critical q
 
 ---
 
-## 🔧 Cleaning Process (Step-by-Step)
+## Cleaning Process (Step-by-Step)
 
 ### Step 1: Data Integrity Check (Duplicate Detection)
 **Objective**: Ensure every record is unique before processing.
@@ -178,6 +178,3 @@ This cleaned dataset powers downstream analysis projects:
 **GitHub**: [@Imam-Data](https://github.com/Imam-Data)
 
 ---
-
-*Last Updated: January 2026*
-```- **Quality Assurance**: Systematic cleaning process ensures 100% data integrity for downstream analysis
